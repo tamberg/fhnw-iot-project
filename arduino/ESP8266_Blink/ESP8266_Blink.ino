@@ -1,3 +1,3 @@
-// Based on https://... licensed under MIT License
+// Based on https://... licensed under ... License
 
 ...
