@@ -2,7 +2,7 @@
 Part of the [IoT Engineering](https://github.com/tamberg/fhnw-iot) course.
 
 ## Rules
-- For details on what is expected, see [IoT00Syllabus.pdf](http://www.tamberg.org/fhnw/2025/hs/IoT00Syllabus.pdf) pp.13 - 16.
+- For details on what is expected, see [IoT00Syllabus.pdf](http://www.tamberg.org/fhnw/2025/hs/IoT00Syllabus.pdf) p.13 - p.16.
 - The deadline to commit and push the final version is Demo Day, 00:00.
 
 ## Team
