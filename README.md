@@ -26,7 +26,7 @@
 * [README.md](actuator/README.md)
 * [nRF52840_Actuator.ino](actuator/nRF52840_Actuator/nRF52840_Actuator.ino)
 
-### Backend
+### Backend (or Gateway)
 > Note: Code or setup of the used IoT platform.
 * [README.md](backend/README.md)
 * [server.js](backend/server.js)
