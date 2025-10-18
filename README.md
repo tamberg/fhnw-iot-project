@@ -1,7 +1,7 @@
 # IoT Engineering Project X
-[IoT Engineering](https://github.com/tamberg/fhnw-iot) course team project.
-
 > Note: Adapt this template to your specific project.
+
+[IoT Engineering](https://github.com/tamberg/fhnw-iot) course team project.
 
 ## Rules
 > Note: The _deadline_ to commit and push the final version is _Demo Day, 00:00_.
