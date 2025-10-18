@@ -16,7 +16,7 @@
 ## Source
 > Note: For your backend, provide (glue) code or setup of the used IoT platform.
 
-* [Arduino code](arduino) (embedded device code / firmware)
+* [Arduino code](arduino) (Embedded device code / firmware)
 * [Nodejs code](nodejs) (Web backend / frontend, or glue code)
 
 ## Docs
