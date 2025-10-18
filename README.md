@@ -15,20 +15,18 @@
 
 ## Source
 ### Sensor
-* [Arduino](arduino)
-  * [README.md](arduino/README.md)
-  * e.g. [ESP8266_Blink.ino](arduino/ESP8266_Blink/ESP8266_Blink.ino)
+* [README.md](sensor/README.md)
+* [ESP8266_Sensor.ino](sensor/ESP8266_Sensor/ESP8266_Sensor.ino)
 
 ### Actuator
-* [Arduino](arduino)
-  * [README.md](arduino/README.md)
-  * e.g. [nRF52840_Blink.ino](arduino/nRF52840_Blink/nRF52840_Blink.ino)
+* [README.md](actuator/README.md)
+* [nRF52840_Actuator.ino](actuator/nRF52840_Actuator/nRF52840_Actuator.ino)
 
 ### Backend
 > Note: Code or setup of the used IoT platform.
-* [Nodejs](nodejs)
-  * [README.md](nodejs/README.md)
-  * [backend.js](nodejs/backend.js)
+* [README.md](backend/README.md)
+* [server.js](backend/server.js)
+
 ## Docs
 > Note: See [rules](#Rules) above for details on expected slide content.
 
