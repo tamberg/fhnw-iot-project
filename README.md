@@ -1,5 +1,5 @@
 # IoT Engineering Project X
-Part of the [IoT Engineering](https://github.com/tamberg/fhnw-iot) course.
+[IoT Engineering](https://github.com/tamberg/fhnw-iot) course team project.
 
 ## Rules
 > Note: The deadline to commit and push the final version is Demo Day, 00:00.
