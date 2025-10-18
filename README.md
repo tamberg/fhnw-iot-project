@@ -15,7 +15,7 @@ Commit and push the final version to this project repository before Demo Day, 00
 * STUDENT3_NAME ([@GITHUB_USER3](https://github.com/GITHUB_USER3))
 
 ## Source
-> Note: For your backend, provide (glue) code or setup instructions of IoT platform.
+> Note: For your backend, provide (glue) code or setup of the used IoT platform.
 
 * [Arduino](arduino) embedded device code / firmware
 * [Nodejs](nodejs) Web backend / frontend, or glue code
