@@ -14,14 +14,21 @@
 * STUDENT3_NAME ([@GITHUB_USER3](https://github.com/GITHUB_USER3))
 
 ## Source
-> Note: For your backend, provide (glue) code or setup of the used IoT platform.
-
+### Sensor Device
 * [Arduino](arduino)
+  * [README.md](arduino/README.md)
   * e.g. [ESP8266_Blink.ino](arduino/ESP8266_Blink/ESP8266_Blink.ino)
-  * e.g. [nRF52840_Blink.ino](arduino/nRF52840_Blink/nRF52840_Blink.ino)
-* [Nodejs](nodejs)
-  * e.g. [backend.js](nodejs/backend.js)
 
+### Actuator Device
+* [Arduino](arduino)
+  * [README.md](arduino/README.md)
+  * e.g. [nRF52840_Blink.ino](arduino/nRF52840_Blink/nRF52840_Blink.ino)
+
+### Backend (or Client)
+> Note: Code or setup of the used IoT platform.
+* [Nodejs](nodejs)
+  * [README.md](nodejs/README.md)
+  * [backend.js](nodejs/backend.js)
 ## Docs
 > Note: See [rules](#Rules) above for details on expected slide content.
 
