@@ -14,12 +14,12 @@
 * STUDENT3_NAME ([@GITHUB_USER3](https://github.com/GITHUB_USER3))
 
 ## Source
-### Sensor Device
+### Sensor
 * [Arduino](arduino)
   * [README.md](arduino/README.md)
   * e.g. [ESP8266_Blink.ino](arduino/ESP8266_Blink/ESP8266_Blink.ino)
 
-### Actuator Device
+### Actuator
 * [Arduino](arduino)
   * [README.md](arduino/README.md)
   * e.g. [nRF52840_Blink.ino](arduino/nRF52840_Blink/nRF52840_Blink.ino)
