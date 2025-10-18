@@ -62,5 +62,5 @@
 ## License
 > Note: Make sure 3rd party code or content is compatible.
 
-* Code is Copyright © 2025 FHNW, licensed under [MIT License](https://fhnw.mit-license.org).
-* Docs by [Team](#Team), licensed under Creative Commons [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+* Code by [Team](#Team) is Copyright © 2025 FHNW, licensed under [MIT License](https://fhnw.mit-license.org).
+* Docs by [Team](#Team) are licensed under Creative Commons [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
