@@ -1,11 +1,7 @@
-# IoT Engineering
-## Project MY_TEAM_PROJECT_TITLE
-
-> *Note: Do not work on this repository right away.*<br/>
-> *[Check existing forks to find the specific repository for your class.](../../network/members)*
+# IoT Engineering Project Team X
 
 ## Introduction
-This project is part of the [IoT Engineering](../../../fhnw-iot) course.
+This project is part of the [IoT Engineering](https://github.com/tamberg/fhnw-iot) course.
 
 * 3-person teams, building an IoT system.
 * 32 hours of work per person, 1 prototype.
@@ -14,14 +10,15 @@ This project is part of the [IoT Engineering](../../../fhnw-iot) course.
 * All team members are able to explain the project.
 
 ### Team members
-* @MY_TEAM_PROJECT_GITHUB_USER_1, REAL_NAME_1
-* @MY_TEAM_PROJECT_GITHUB_USER_2, REAL_NAME_2
+* REAL_NAME_1 (@GITHUB_USER_1)
+* REAL_NAME_2 (@GITHUB_USER_2)
+* REAL_NAME_3 (@GITHUB_USER_3)
 
 ## Deliverables
 The following deliverables are mandatory.
 
 ### Source code
-Source code, Arduino C, JS or Python, committed to (this) project repo.
+Source code, Arduino C, JS or Python, committed to (this) repository.
 
 [Arduino/MY_TEAM_PROJECT/MY_TEAM_PROJECT.ino](Arduino/MY_TEAM_PROJECT_FILE.ino)
 
@@ -55,4 +52,4 @@ Working end-to-end prototype, "device to cloud", part of your 10' presentation.
 3) The event triggers actuator output on the same or on a separate IoT device.
 
 ## Submission deadline
-Commit and push to (this) project repo before Demo Day, _16.01.2022, 00:00_.
+Commit and push to (this) project repo before Demo Day, 00:00_.
