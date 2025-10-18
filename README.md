@@ -47,7 +47,7 @@
     $ node code.js
     ```
 
-<img src="" alt="Client dashboard" width="500" height="376"/>
+<img src="" alt="Screenshot" width="500" height="376"/>
 
 ## Docs
 > Note: See [rules](#Rules) above for expected content.
