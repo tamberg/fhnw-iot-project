@@ -15,7 +15,7 @@
 
 ## Code
 ### Sensor
-> Note: Use ESP8266 or nRF52840 (or Pi Zero).
+> Note: Use ESP8266 or nRF52840 (or Pi Zero w/ Cam).
 
 * [ESP8266_Sensor.ino](arduino/ESP8266_Sensor/ESP8266_Sensor.ino)
 * Prepare ESP8266 with Grove adapter
