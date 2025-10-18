@@ -1,4 +1,4 @@
-# IoT Engineering Project Team X
+# IoT Engineering Project X
 
 ## Introduction
 This project is part of the [IoT Engineering](https://github.com/tamberg/fhnw-iot) course.
