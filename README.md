@@ -15,19 +15,29 @@
 
 ## Code
 ### Sensor
-> Note: Can be ESP8266 or nRF52840.
+> Note: Use ESP8266 or nRF52840 (or Pi Zero).
 
 * [ESP8266_Sensor.ino](arduino/ESP8266_Sensor/ESP8266_Sensor.ino)
+* Prepare ESP8266 with Grove adapter
+* Connect XY sensor to Grove port N
+* Install XY Arduino library
 
 ### Actuator
-> Note: Can be ESP8266 or nRF52840.
+> Note: Use ESP8266 or nRF52840.
 
 * [nRF52840_Actuator.ino](arduino/nRF52840_Actuator/nRF52840_Actuator.ino)
+* Prepare nRF52840 with Grove adapter
+* Connect XY actuator to Grove port N
+* Install XY Arduino library
 
 ### Backend (or Gateway)
-> Note: Code or setup of IoT platform.
-
 * [sever.js](nodejs/server.js)
+* Setup and build with
+    ```console
+    $ cd nodejs
+    $ npm install ...
+    $ node server.js
+    ```
 
 ## Docs
 > Note: See [rules](#Rules) above for expected content.
