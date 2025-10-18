@@ -25,9 +25,9 @@
 ## Docs
 > Note: See [rules](#Rules) above for details on expected slide content.
 
-* [Slides](docs/Slides.pdf) (PDF)
+* [Slides](docs/Slides.pdf)
 
 ## Prompts
 > Note: Not using "AI" tools is absolutely fine.
 
-* [Prompts](prompts) (TXT)
+* [Prompts](prompts)
