@@ -62,5 +62,5 @@
 ## License
 > Note: Make sure 3rd party code or content is compatible
 
-* Code is licensed under MIT License, see LICENSE.md
-* Docs are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Team](#Team).
+* Code is licensed under [MIT License](https://fhnw.mit-license.org).
+* Docs are licensed under Creative Commons [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Team](#Team).
