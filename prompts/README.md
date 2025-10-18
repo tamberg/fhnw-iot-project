@@ -9,6 +9,6 @@ The "AI" tool prompts used in this project.
 To attribute "AI" tool use in a source file, for transparency and academic integrity.
 
 ```C
-// License ...
-// based on $REPO_PATH/prompts/2025-08-29T09-45-00Z.txt
+// (c) ...
+// based on /prompts/2025-08-29T09-45-00Z.txt
 ```
