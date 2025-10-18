@@ -25,7 +25,7 @@
 * Install XY sensor Arduino library
 * Photo
   
-    <img src="" width="540"/>
+    <img src="" width="500" height="376"/>
 
 ### Actuator
 > Note: Use ESP8266 or nRF52840.
@@ -36,7 +36,7 @@
 * Install XY actuator Arduino library
 * Photo
   
-    <img src="" width="540"/>
+    <img src="" width="500" height="376"/>
 
 ### Backend (or Gateway or Client)
 > Note: Use JS, Python, etc. or existing IoT platform.
@@ -50,7 +50,7 @@
     ```
 * Screenshot
   
-    <img src="" width="540"/>
+    <img src="" width="500" height="376"/>
 
 ## Docs
 > Note: See [rules](#Rules) above for expected content.
