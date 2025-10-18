@@ -16,8 +16,8 @@ Part of the [IoT Engineering](https://github.com/tamberg/fhnw-iot) course.
 ## Source
 > Note: For your backend, provide (glue) code or setup of the used IoT platform.
 
-* [Arduino](arduino) embedded device code / firmware
-* [Nodejs](nodejs) Web backend / frontend, or glue code
+* [Arduino code](arduino) (embedded device code / firmware)
+* [Nodejs code](nodejs) (Web backend / frontend, or glue code)
 
 ## Docs
 > Note: See [rules](#Rules) above for details on expected slide content.
