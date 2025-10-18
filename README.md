@@ -1,11 +1,9 @@
 # IoT Engineering Project X
 Part of the [IoT Engineering](https://github.com/tamberg/fhnw-iot) course.
 
-## Deadline
-Commit and push the final version to this project repository before Demo Day, 00:00.
-
 ## Rules
-- See [Syllabus.pdf](http://www.tamberg.org/fhnw/2025/hs/IoT00Syllabus.pdf) pp.13 - 16.
+- For details on what is expected, see [IoT00Syllabus.pdf](http://www.tamberg.org/fhnw/2025/hs/IoT00Syllabus.pdf) pp.13 - 16.
+- The deadline to commit and push the final version is Demo Day, 00:00.
 
 ## Team
 > Note: Commit (and push) early and often, git history serves as a proof of team work.
