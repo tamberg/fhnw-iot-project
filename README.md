@@ -31,6 +31,8 @@
 * Install XY Arduino library
 
 ### Backend (or Gateway)
+> Note: Use JS, Python, etc. or 3rd party
+
 * [sever.js](nodejs/server.js)
 * Setup and build with
     ```console
