@@ -7,7 +7,7 @@
 - For details on what exactly is expected, see [IoT00Syllabus.pdf](http://www.tamberg.org/fhnw/2025/hs/IoT00Syllabus.pdf) pp.13 - 16.
 
 ## Team
-> Note: Commit (and push) early and often, git history serves as a proof of team work.
+> Note: Commit and push early and often, git history serves as a proof of team work.
 
 * STUDENT1_NAME ([@GITHUB_USER1](https://github.com/GITHUB_USER1))
 * STUDENT2_NAME ([@GITHUB_USER2](https://github.com/GITHUB_USER2))
