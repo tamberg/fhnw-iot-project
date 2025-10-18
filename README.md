@@ -32,7 +32,7 @@
 * [server.js](backend/server.js)
 
 ## Docs
-> Note: See [rules](#Rules) above for details on expected slide content.
+> Note: See [rules](#Rules) above for expected content.
 
 * [Slides](docs/Slides.pdf) (PDF)
 
