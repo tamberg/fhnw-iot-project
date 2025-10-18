@@ -1,7 +1,7 @@
 # Prompts
 The "AI" tool prompts used in this project.
 
-> Note: it is absolutely fine, not to use "AI" tools at all.
+> Note: Not using "AI" tools, is absolutely fine.
 
 ### Save prompts or entire sessions
 - Download your "AI" tool prompts or session logs into this _prompts_ directory
