@@ -31,7 +31,7 @@
 * Install XY Arduino library
 
 ### Backend (or Gateway)
-> Note: Use JS, Python, etc. or 3rd party
+> Note: Use JS, Python, etc. or IoT platform.
 
 * [sever.js](nodejs/server.js)
 * Setup and build with
