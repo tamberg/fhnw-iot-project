@@ -13,23 +13,21 @@
 * STUDENT2_NAME ([@GITHUB_USER2](https://github.com/GITHUB_USER2))
 * STUDENT3_NAME ([@GITHUB_USER3](https://github.com/GITHUB_USER3))
 
-## Source
+## Code
 ### Sensor
 > Note: Can be ESP8266 or nRF52840.
- 
-* [README.md](sensor/README.md)
-* [ESP8266_Sensor.ino](sensor/ESP8266_Sensor/ESP8266_Sensor.ino)
+
+* [ESP8266_Sensor.ino](arduino/ESP8266_Sensor/ESP8266_Sensor.ino)
 
 ### Actuator
 > Note: Can be ESP8266 or nRF52840.
 
-* [README.md](actuator/README.md)
-* [nRF52840_Actuator.ino](actuator/nRF52840_Actuator/nRF52840_Actuator.ino)
+* [nRF52840_Actuator.ino](arduino/nRF52840_Actuator/nRF52840_Actuator.ino)
 
 ### Backend (or Gateway)
 > Note: Code or setup of IoT platform.
-* [README.md](backend/README.md)
-* [server.js](backend/server.js)
+
+* [sever.js](nodejs/server.js)
 
 ## Docs
 > Note: See [rules](#Rules) above for expected content.
