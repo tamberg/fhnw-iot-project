@@ -58,3 +58,9 @@
 > Note: Not using "AI" tools is absolutely fine.
 
 * [Prompts](prompts)
+
+## License
+> Note: Make sure 3rd party code is compatible
+
+* Code is licensed under MIT License, see LICENSE.md
+* Docs are licensed under CC BY [Team](#Team).
