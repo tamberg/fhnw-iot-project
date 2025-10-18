@@ -23,9 +23,8 @@
 * Expand ESP8266 with Grove adapter
 * Connect XY sensor to Grove port N
 * Install XY sensor Arduino library
-* Photo
-  
-    <img src="" width="500" height="376"/>
+
+<img src="" alt="Sensor device" width="500" height="376"/>
 
 ### Actuator
 > Note: Use ESP8266 or nRF52840.
@@ -34,9 +33,8 @@
 * Expand nRF52840 with Grove adapter
 * Connect XY actuator to Grove port N
 * Install XY actuator Arduino library
-* Photo
   
-    <img src="" width="500" height="376"/>
+<img src="" alt="Actuator device" width="500" height="376"/>
 
 ### Backend (or Gateway or Client)
 > Note: Use JS, Python, etc. or existing IoT platform.
@@ -48,9 +46,8 @@
     $ npm install ...
     $ node code.js
     ```
-* Screenshot
   
-    <img src="" width="500" height="376"/>
+<img src="" alt="Screenshot" width="500" height="376"/>
 
 ## Docs
 > Note: See [rules](#Rules) above for expected content.
