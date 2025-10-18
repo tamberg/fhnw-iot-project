@@ -16,8 +16,11 @@
 ## Source
 > Note: For your backend, provide (glue) code or setup of the used IoT platform.
 
-* [Arduino](arduino) (INO)
-* [Nodejs](nodejs) (JS)
+* [Arduino](arduino)
+  * e.g. [ESP8266_Blink.ino](arduino/ESP8266_Blink/ESP8266_Blink.ino)
+  * e.g. [nRF52840_Blink.ino](arduino/nRF52840_Blink/nRF52840_Blink.ino)
+* [Nodejs](nodejs)
+  * e.g. [backend.js](nodejs/backend.js)
 
 ## Docs
 > Note: See [rules](#Rules) above for details on expected slide content.
