@@ -24,7 +24,7 @@
   * [README.md](arduino/README.md)
   * e.g. [nRF52840_Blink.ino](arduino/nRF52840_Blink/nRF52840_Blink.ino)
 
-### Backend (or Client)
+### Backend
 > Note: Code or setup of the used IoT platform.
 * [Nodejs](nodejs)
   * [README.md](nodejs/README.md)
