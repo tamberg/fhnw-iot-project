@@ -60,7 +60,7 @@
 * [Prompts](prompts)
 
 ## License
-> Note: Make sure 3rd party code is compatible
+> Note: Make sure 3rd party code or content is compatible
 
 * Code is licensed under MIT License, see LICENSE.md
-* Docs are licensed under CC BY [Team](#Team).
+* Docs are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) [Team](#Team).
