@@ -27,4 +27,4 @@
 ## Prompts
 > Note: Not using "AI" tools is absolutely fine.
 
-* [Prompts](prompts/README.md) (TXT)
+* [Prompts](prompts) (TXT)
