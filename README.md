@@ -39,7 +39,7 @@
 ### Backend (or Gateway or Client)
 > Note: Use JS, Python, etc. or existing IoT platform.
 
-* [sever.js](nodejs/code.js)
+* [code.js](nodejs/code.js)
 * Setup, build and run with
     ```console
     $ cd nodejs
