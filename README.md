@@ -15,10 +15,14 @@
 
 ## Source
 ### Sensor
+> Note: Can be ESP8266 or nRF52840.
+ 
 * [README.md](sensor/README.md)
 * [ESP8266_Sensor.ino](sensor/ESP8266_Sensor/ESP8266_Sensor.ino)
 
 ### Actuator
+> Note: Can be ESP8266 or nRF52840.
+
 * [README.md](actuator/README.md)
 * [nRF52840_Actuator.ino](actuator/nRF52840_Actuator/nRF52840_Actuator.ino)
 
