@@ -24,6 +24,7 @@
 * Connect XY sensor to Grove port N
 * Install XY sensor Arduino library
 * Photo
+  
     <img src="" width="540"/>
 
 ### Actuator
@@ -34,6 +35,7 @@
 * Connect XY actuator to Grove port N
 * Install XY actuator Arduino library
 * Photo
+  
     <img src="" width="540"/>
 
 ### Backend (or Gateway or Client)
@@ -47,6 +49,7 @@
     $ node code.js
     ```
 * Screenshot
+  
     <img src="" width="540"/>
 
 ## Docs
